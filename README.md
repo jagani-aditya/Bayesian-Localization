@@ -15,5 +15,5 @@ This project presents implementation of bayes filter for a 'toy' robot in a 2D s
  
 Navigate to the ```Bayesion-Localization``` folder
 
-```$ python main.py ```  
+```$ .\main ```  
 
