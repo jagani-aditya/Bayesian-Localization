@@ -9,7 +9,7 @@ This project presents implementation of bayes filter for a 'toy' robot in a 2D s
 </p>
 
 <p align="center">
-  <img src="/img/bayesian_door_img.png" />
+  <img src="/img/bayesian_door_img.PNG" />
 </p>
 
 ## Platform
