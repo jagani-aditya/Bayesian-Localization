@@ -4,6 +4,9 @@ Implementation of Bayes filter to iteratively calculate door state belief (open/
 ## Project Description
 This project presents implementation of bayes filter for a 'toy' robot in a 2D space for a set of measurement-action pairs.
 
+
+## Algorithm
+
 <p align="center">
   <img src="/img/bf_bayes_filter.png" />
 </p>
